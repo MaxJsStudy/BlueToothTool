@@ -1,6 +1,4 @@
-// pages/about/about.js
-// 在页面中定义插屏广告
-let interstitialAd = null
+
 
 Page({
 

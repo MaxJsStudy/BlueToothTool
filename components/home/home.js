@@ -1,4 +1,4 @@
-// pages/index/index.js
+
 var app = getApp();
 var utils = require("../../utils/util.js");
 

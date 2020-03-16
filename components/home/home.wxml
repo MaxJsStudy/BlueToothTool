@@ -1,4 +1,4 @@
-<!--pages/index/index.wxml-->
+
 <wxs module="utils">
   module.exports.max = function(n1, n2) {
     return Math.max(n1, n2)
@@ -33,6 +33,4 @@
     </view>
   </scroll-view>
  
-
-  <tabbar bindchange="tabChange" data="{{tabbar}}"></tabbar>
 </view>
