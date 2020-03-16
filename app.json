@@ -1,8 +1,7 @@
 {
   "pages": [
     "pages/index/index",
-    "pages/functionPage/functionPage",
-    "pages/about/about"
+    "pages/functionPage/functionPage"
   ],
   "window": {
     "backgroundTextStyle": "light",
