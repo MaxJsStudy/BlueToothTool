@@ -13,8 +13,6 @@
     </view>
   </scroll-view>
 
-  <view class='gzh-view'>
-    <official-account></official-account>
-  </view>
+
 
 </view>
